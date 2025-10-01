@@ -7,9 +7,9 @@ range: 384
 
 itemCapacity: 81
 rotateSpeed: 2
-health: 2250
+health: 900
 speed: 0.434
-armor: 32
+armor: 9
 
 lightColor: fff8e8
 lightOpacity: 0.7
@@ -108,7 +108,7 @@ bullet: {
     status: bsm-armor-piercing-tier-1
     splashDamageRadius: 26
     statusDuration: 300
-    splashDamage: 120
+    splashDamage: 60
     knockback: 4.45
     pierceCap: 18
     lifetime: 163
@@ -191,7 +191,7 @@ bullet: {
     statusDuration: 180
     pierceCap: 15
     lifetime: 48
-    damage: 21.5
+    damage: 11
     speed: 7.5
 
     lightColor: fff8e8
