@@ -6,8 +6,8 @@ fogRadius: 29
 
 rotateSpeed: 1.8
 speed: 0.53335
-health: 960
-armor: 8
+health: 600
+armor: 3
 
 lightColor: 665c9f
 lightOpacity: 0.7
@@ -79,7 +79,7 @@ bullet: {
     status: melting
     knockback: 0.5
     lifetime: 64
-    damage: 18
+    damage: 13
     speed: 2.5
     drag: 0.01
 
@@ -150,3 +150,4 @@ hitEffect: {
     }
 }
     ]
+
