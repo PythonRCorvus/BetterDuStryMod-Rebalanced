@@ -5,9 +5,9 @@ stepShake: 2.35
 
 itemCapacity: 180
 rotateSpeed: 1.8
-health: 24000
+health: 8000
 speed: 0.6
-armor: 75
+armor: 6
 
 lightColor: 665c9f
 lightOpacity: 0.7
@@ -84,7 +84,7 @@ bullet: {
     status: burning
     pierceCap: 12
     lifetime: 24
-    damage: 52.5
+    damage: 26
     speed: 3
 
     despawnEffect: none
@@ -161,7 +161,7 @@ bullet: {
     statusDuration: 180
     pierceCap: 24
     lifetime: 64
-    damage: 48
+    damage: 24
     speed: 6
 
     shootEffect: shootSmallColor
@@ -204,7 +204,7 @@ bullet: {
 
     sapStrength: 0.35
     lifetime: 30
-    damage: 32
+    damage: 16
 
     shootEffect: shootSmall
     despawnEffect: none
@@ -241,7 +241,7 @@ bullet: {
 
     sapStrength: 0.25
     lifetime: 30
-    damage: 48
+    damage: 24
 
     shootEffect: shootSmall
     despawnEffect: none
@@ -278,7 +278,7 @@ bullet: {
 
     sapStrength: 0.15
     lifetime: 30
-    damage: 69
+    damage: 35
 
     shootEffect: shootSmall
     despawnEffect: none
@@ -321,7 +321,7 @@ bullet: {
     sapStrength: 0.25
     knockback: -2
     lifetime: 40
-    damage: 81
+    damage: 41
 
     shootEffect: shootSmall
     despawnEffect: none
@@ -390,3 +390,4 @@ bullet: {
     }
 }
     ]
+
