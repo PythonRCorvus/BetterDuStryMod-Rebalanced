@@ -5,9 +5,9 @@ stepShake: 1.7
 
 itemCapacity: 130
 rotateSpeed: 1.25
-health: 1960
+health: 1000
 speed: 0.567
-armor: 21
+armor: 5
 
 lightColor: 665c9f
 lightOpacity: 0.7
@@ -64,7 +64,7 @@ bullet: {
     sapStrength: 0.75
     knockback: -0.85
     lifetime: 25
-    damage: 48
+    damage: 23
 
     shootEffect: shootSmall
     despawnEffect: none
@@ -101,7 +101,7 @@ bullet: {
     knockback: -0.75
     sapStrength: 1
     lifetime: 35
-    damage: 69
+    damage: 35
 
     shootEffect: shootSmall
     despawnEffect: none
@@ -144,7 +144,7 @@ bullet: {
     sapStrength: 0.25
     knockback: -1.5
     lifetime: 40
-    damage: 48
+    damage: 24
 
     shootEffect: shootSmall
     despawnEffect: none
@@ -174,3 +174,4 @@ hitEffect: {
     }
 }
     ]
+
