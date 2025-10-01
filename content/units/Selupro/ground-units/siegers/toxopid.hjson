@@ -7,8 +7,8 @@ fogRadius: 96
 legSplashDamage: 1300
 legSplashRange: 40
 itemCapacity: 900
-health: 59000
-armor: 240
+health: 22000
+armor: 13
 
 lightColor: 665c9f
 lightOpacity: 0.7
@@ -90,7 +90,7 @@ bullet: {
     sapStrength: 1.7
     knockback: -1
     lifetime: 15
-    damage: 55
+    damage: 30
 
     shootEffect: shootSmall
     despawnEffect: none
@@ -155,7 +155,7 @@ bullet: {
     serrationLenScl: 7
     serrationWidth: 6
     serrations: 10
-    damage: 1000
+    damage: 500
 
     shootEffect: sparkShoot
     smokeEffect: sparkShoot
@@ -297,7 +297,7 @@ fragBullet: {
     status: sapped
     lifetime: 110
     lightning: 2
-    damage: 90
+    damage: 45
     speed: 1.7
 
     smokeEffect: shootBigSmoke2
@@ -380,7 +380,7 @@ bullet: {
     weaveMag: 2
     speed: 3.25
     drag: 0.003
-    damage: 81
+    damage: 40
 
     despawnEffect: blastExplosion
     hitEffect: blastExplosion
@@ -502,7 +502,7 @@ bullet: {
     width: 0
 
     splashDamageRadius: 200
-    splashDamage: 3200
+    splashDamage: 1600
     lifetime: 65
     damage: 0
     speed: 0
@@ -842,7 +842,7 @@ bullet: {
     width: 0
 
     splashDamageRadius: 80
-    splashDamage: 2000
+    splashDamage: 1000
     lifetime: 60
     damage: 0
     speed: 0
@@ -867,11 +867,12 @@ bullet: {
     width: 0
 
     splashDamageRadius: 40
-    splashDamage: 8000
+    splashDamage: 4000
     lifetime: 55
     damage: 0
     speed: 0
     }
 }
     ]
+
 
