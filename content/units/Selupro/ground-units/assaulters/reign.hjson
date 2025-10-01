@@ -8,7 +8,7 @@ itemCapacity: 18000
 rotateSpeed: 0.75
 health: 24000
 speed: 0.21
-armor: 196
+armor: 18
 
 deathSound: mech-large-destroyed
 
@@ -666,4 +666,5 @@ bullet: {
     }
 }
     ]
+
 
