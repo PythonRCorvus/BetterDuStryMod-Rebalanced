@@ -5,9 +5,9 @@ stepShake: 8.75
 fogRadius: 34.5
 
 itemCapacity: 9600
-health: 48000
+health: 9000
 speed: 0.35
-armor: 96
+armor: 10
 
 lightColor: fff8e8
 lightOpacity: 0.7
@@ -181,7 +181,7 @@ bullet: {
     pierceCap: 21
     lightning: 4
     weaveMag: 3
-    damage: 181
+    damage: 60
     speed: 15
 
     smokeEffect: shootBigSmoke2
@@ -293,7 +293,7 @@ bullet: {
     status: air-specialization
     statusDuration: 300
     lifetime: 50
-    damage: 48
+    damage: 24
     speed: 4.5
 
     lightColor: fff8e8
@@ -345,12 +345,12 @@ bullet: {
 
     splashDamageRadius: 26
     homingPower: 0.025
-    splashDamage: 50
+    splashDamage: 25
     homingRange: 45
     lifetime: 129.5
     weaveScale: 6
     weaveMag: 3
-    damage: 75
+    damage: 35
     speed: 4
 
     despawnEffect: blastExplosion
@@ -369,3 +369,4 @@ bullet: {
     }
 }
     ]
+
