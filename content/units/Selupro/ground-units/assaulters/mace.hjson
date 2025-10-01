@@ -6,7 +6,7 @@ stepShake: 0.6
 itemCapacity: 32
 rotateSpeed: 3.5
 speed: 0.64
-armor: 15
+armor: 4
 
 lightColor: fff8e8
 lightOpacity: 0.7
@@ -57,7 +57,7 @@ bullet: {
     status: burning
     pierceCap: 15
     lifetime: 19
-    damage: 42.5
+    damage: 37
     speed: 3
 
     incendAmount: 15
