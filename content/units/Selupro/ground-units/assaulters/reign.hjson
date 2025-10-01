@@ -6,7 +6,7 @@ range: 600
 
 itemCapacity: 18000
 rotateSpeed: 0.75
-health: 81000
+health: 24000
 speed: 0.21
 armor: 196
 
@@ -107,7 +107,7 @@ bullet: {
     status: burning
     pierceCap: 21
     lifetime: 19
-    damage: 81
+    damage: 40
     speed: 3
 
     shootEffect: shootSmallFlame
@@ -151,7 +151,7 @@ bullet: {
     status: burning
     pierceCap: 21
     lifetime: 19
-    damage: 81
+    damage: 40
     speed: 3
 
     shootEffect: shootSmallFlame
@@ -205,7 +205,7 @@ bullet: {
     splashDamage: 181
     lifetime: 20.5
     pierceCap: 24
-    damage: 325
+    damage: 162
     speed: 19
 
     hitSound: minigun-heavy-hit
@@ -285,7 +285,7 @@ bullet: {
 
     pierceCap: 48
     lifetime: 160
-    damage: 450
+    damage: 225
     drag: 0.03
     speed: 16
 
@@ -427,7 +427,7 @@ fragBullet: {
     splashDamage: 30
     pierceCap: 24
     lifetime: 60
-    damage: 90
+    damage: 45
     drag: 0.07
     speed: 4
 
@@ -633,7 +633,7 @@ bullet: {
     status: air-specialization
     statusDuration: 180
     lifetime: 52
-    damage: 48
+    damage: 24
     speed: 5
 
     lightColor: fff8e8
@@ -666,3 +666,4 @@ bullet: {
     }
 }
     ]
+
